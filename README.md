@@ -1,3 +1,5 @@
+# udacity movie trailer project
+- Source code for a Movie Trailer website
 - This was a project created for my Udacity Full-Stack Developer Nanodegree program
 - Tested using Python 2.7.14
 
