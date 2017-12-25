@@ -1,4 +1,3 @@
-# entertainment_center.py
 # movie titles, descriptions, ratings, and posters were aquired from imdb.com
 from fresh_tomatoes import open_movies_page
 from media import Movie
